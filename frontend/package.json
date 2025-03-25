@@ -1,0 +1,15 @@
+{
+  "name": "amazon-scraper-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^6.2.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "cors": "^2.8.5"
+  }
+}
