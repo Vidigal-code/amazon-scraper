@@ -60,10 +60,10 @@ amazon-scraper/
 
 3. Create a `.env` file in the backend directory with the following variables:
    ```
-  API_AMAZON_SEARCH=https://www.amazon.com/s?k=
-  API_GET_SCRAPE=/api/scrape
-  PORT=3000
-  HOST=http://localhost
+   API_AMAZON_SEARCH=https://www.amazon.com/s?k=
+   API_GET_SCRAPE=/api/scrape
+   PORT=3000
+   HOST=http://localhost
    ```
 
 4. Start the backend server:
@@ -129,9 +129,13 @@ The application includes robust error handling:
 
 ## 📧 Contact
 
-Email - [kauanvidigalcontato@gmail.com]
+Email: [ kauanvidigalcontato@gmail.com ]
 
-Project Link: [https://github.com/Vidigal-code/amazon-scraper]
+Project Link: [ https://github.com/Vidigal-code/amazon-scraper ]
 
 
 ## 👀 View
+
+ <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <img src="https://github.com/Vidigal-code/amazon-scraper/blob/main/example/view-pet.png?raw=true" alt="Imagem Exemplo">
+  </div>
